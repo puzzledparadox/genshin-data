@@ -38,3 +38,10 @@ Razor (C1 < C4) - artifact level
 
 Amber (C0 = C0) - weapon level, artifact level
 Aloy (C0 = C0)
+
+5* PULL PRIORITY
+(4.0/5.0) - Kazuha, Ayaka
+(3.5/5.0) - Yelan
+(3.0/5.0) - Xiao, Eula, Hu Tao, Itto
+(2.5/5.0) - Klee, Tartaglia, Shenhe
+(2.0/5.0) - Yoimiya, Kokomi, Yae
