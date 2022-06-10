@@ -1,48 +1,47 @@
 Bennett (C6 > C1)
 Xiangling (C6 > C4)
 Xingqiu (C6 = C6)
-Ganyu (C0 = C0)
-Ayaka (C0 = C0) - level, weapon level, artifact level, talent level
-Zhongli (C0 = C0)
+Ganyu (C0 = C0) - artifact level
+Ayaka (C0 = C0) - artifact level, talent level
 Raiden (C0 < C2)
+Zhongli (C0 = C0) - artifact level
 
 Mona (C1 > C0)
 Venti (C0 = C0)
 Ayato (C0 = C0)
 Albedo (C0 = C0)
 Sucrose (C5 < C6)
-Yun Jin (C1 < C2)
+Yun Jin (C1 < C2) - artifact level
 Diona (C1 < C6)
 Gorou (C0 < C6)
 Sara (C0 < C6)
 
-Beidou (C6 > C2)
+Beidou (C6 > C2) - artifact level
 Rosaria (C6 = C6)
-Yanfei (C4 > C2)
-Diluc (C1 > C0)
-Jean (C0 = C0)
-Fischl (C5 < C6)
+Yanfei (C4 > C2) - artifact level
+Jean (C0 = C0) - artifact level
+Diluc (C1 > C0) - artifact level
+Fischl (C5 < C6) - artifact level
 
-Keqing (C2 > C0) - artifact level
-Sayu (C5 > C1) - artifact level
+Keqing (C2 > C0)
+Sayu (C5 > C1) - artifact pending
 Noelle (C6 = C6) - artifact level
 Ningguang (C4 > C1) - artifact level
-Barbara (C1 > C0)
+Barbara (C1 > C0) - artifact level
 Chongyun (C2 = C2) - artifact level
-Qiqi (C0 = C0) - artifact level
+Qiqi (C0 = C0) - artifact set
 Traveler (C6 = C6) - artifact level
 
-Xinyan (C5 > C4) - artifact level
+Xinyan (C5 > C4) - artifact pending
 Kaeya (C2 > C0) - artifact level
-Lisa (C4 > C0) - weapon level
+Lisa (C4 > C0) - weapon level, artifact level
 Razor (C1 < C4) - artifact level
 
 Amber (C0 = C0) - weapon level, artifact level
-Aloy (C0 = C0)
+Aloy (C0 = C0) - artifact set
 
 5* PULL PRIORITY
-(4.0/5.0) - Kazuha
-(3.5/5.0) - Yelan
+(4.0/5.0) - Kazuha, Yelan
 (3.0/5.0) - Xiao, Eula, Hu Tao, Itto
 (2.5/5.0) - Klee, Tartaglia, Shenhe
 (2.0/5.0) - Yoimiya, Kokomi, Yae
