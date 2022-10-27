@@ -9,14 +9,14 @@ Yelan (C0 = C0)
 Xingqiu (C6 = C6)
 Zhongli (C0 = C0)
 
-Ganyu (C0 = C0) - farm blizzard
-Venti (C0 = C0) - artifact level, talent level
-Fischl (C6 = C6) - artifact level
-Mona (C1 > C0) - artifact level, talent level
+Ganyu (C0 = C0) - artifact level
+Venti (C0 = C0)
+Fischl (C6 = C6) - artifact level, talent level
+Mona (C1 > C0) - artifact level
 Ayato (C0 = C0) - artifact level
-Diona (C1 < C6) - weapon level, artifact level, talent level
+Diona (C1 < C6) - artifact level
 Albedo (C0 = C0)
-Heizou (C1 > C0) - character level, weapon level, artifact level, talent level
+Heizou (C1 > C0) - artifact level, talent level
 Sucrose (C5 < C6) - weapon level
 Yun Jin (C2 = C2) - artifact level
 Gorou (C1 < C6) - artifact level
@@ -28,7 +28,7 @@ Beidou (C6 > C2)
 Yanfei (C4 > C2) - artifact level
 Diluc (C1 > C0) - artifact level
 Keqing (C2 > C0)
-Rosaria (C6 = C6) - weapon level
+Rosaria (C6 = C6)
 Qiqi (C0 = C0)
 Collei (C1 < C4) - no info
 Sayu (C5 > C1) - no info
@@ -40,11 +40,11 @@ Chongyun (C2 = C2) - artifact level
 Barbara (C1 > C0) - artifact level
 
 Kaeya (C2 > C0) - artifact level
-Lisa (C4 > C0) - weapon level, artifact level
+Lisa (C4 > C0) - artifact level
 Razor (C1 < C4)
 Xinyan (C6 > C4) - weapon level, artifact level
 
-Aloy (C0 = C0) - farm emblem
+Aloy (C0 = C0) - artifact level
 Amber (C0 = C0) - no info
 
 5* PULL PRIORITY
